@@ -1,6 +1,6 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
+title: "Literature as Moral Philosophy"
+date: 2020-09-25
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
@@ -15,13 +15,13 @@ aliases:
     - /courses/course2/quiz3.pdf
     - /courses/course2/quiz4.pdf
     - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+tags: ["Literature","Moral Philosophy","Ordinary Language Philosophy","Literary Analysis"]
+author: "Ethan Woelbern"
+description: "This course presents a conjunctive reading between realist literature and moral philosophy." 
+summary: "Within this course we will explore what exactly reading literature as having philosophical merit and reading philosophy outside of the realm of argument does for the practice of each field—how it reopens those whom the field traditionally accepts for new interpretation. Another way of reading this the aim is to see how explore how reading literature philosophically and reading philosophy literarily can do things for our lives. Putting this in the form of a thesis question for the course: how does being in a dialogue with a text reveal what we as readers find important, truthful, and meaningful (as well as the inverse)?" 
 cover:
     image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    alt: "Literature as Moral Philosophy"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
@@ -31,90 +31,70 @@ disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+# Literature as Moral Philosophy
+#### Fall 2026 
+##### Led by Ethan Woelbern and advised by Jim Donelan
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+## Course Introduction
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+The focus of this course will be to explore how explore how reading literature philosophically and reading philosophy can do things for us. Putting this in the form of a thesis question for the course: how does being in a dialogue with a text reveal what we as readers find important, truthful, and meaningful (as well as the inverse)? Navigating this will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. These two principles are, I think, not necessarily the most explicitly stated in either field, though perhaps they should be. The Philosopher Stanley Cavell states in the beginning of his work The Claim of Reason that he seeks to read philosophy as a series of texts. Using this quote as a guiding principle, I would like to see what exactly reading philosophy outside of the realm of argument shifts the practice altogether as well as look at the ways that reading texts and gauging how we react to them can help us to come to better understandings of ourselves and our world. Cavell ends The Claim of Reason by asking if one can think about the characters of Othello as philosophers. This sort of question will guide our discussions in this course.
 
-## Part 1: Review of Romance languages
+Class will be structured as having both a lecture and a seminar included, the first 15 minutes spent on the former and the rest of the time spent on the latter. Attendance is encouraged, and if attending, having done the reading will be mandatory. Please print the readings or pick up the print copies I will make. No laptops in class, ipads are fine. I will set up an email group for encouraged (but not mandatory) weekly reflections. A final paper will be optional. 
+ 
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Week 1: Intention and Authorship
 
-##### Lecture videos
+##### Readings 
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
++ [Stanley Cavell: “A Matter of Meaning it” in *Must We Mean What We Say* (213-237)](Must-We-Mean-What-We-Say.pdf)
++ [Elizabeth Anscombe *Intention*: (§4-6)](Intention.pdf)
 
-##### Lecture notes
+##### Supplamentary Reading
 
-+ [Lecture note 1](lecture1.pdf)
++ 
++ 
+
+## Week 2: Why Literature
 
 ##### Readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read. (Further results are in the [online appendix](https://pascalmichaillat.org/1a.pdf).)
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
++ [Murdoch: “Vision and Choice in Morality” in *Existentialists and Mystics* 76-98](Existentialists-and-mystics.pdf)
++ [Cora Diamond, “Anything but Argument” in The Realistic Spirit 291-308](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
 
-## Part 2: Portugese irregular verbs
-
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Lecture videos
-
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8) - Short overview of the Portugese language.
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8) - History of irregular verbs.
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0) - Main Portugese irregular verbs.
-
-##### Lecture notes
-
-+ [Lecture note 2](lecture2.pdf)
+## Week 3: Text and Self
 
 ##### Readings
 
-+ [Paper 4](https://pascalmichaillat.org/3.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/3a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/5.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/5a.pdf) contains long proofs and extensions of the results.)
++ [Cavell: “Asthethic Problems of Modern Philosophy” in Must We Mean What We Say](Must-We-Mean-What-We-Say.pdf)
++ [Cora Diamond “The Difficulty of Reality” in *Reading Cavell* (98-118)](2006-reading-cavell.pdf)
 
-
-## Part 3: Spanish irregular verbs
-
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-
-##### Lecture videos
-
-+ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-+ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
+## Week 4: 
 
 ##### Basic readings
 
 + [Paper 6](https://pascalmichaillat.org/10.pdf) ([online appendix](https://pascalmichaillat.org/10a.pdf))
 + [Paper 7](https://pascalmichaillat.org/11.pdf) ([online appendix](https://pascalmichaillat.org/11a.pdf))
 
-##### Advanced readings
+## Week 5: 
 
-+ [Paper 8](https://pascalmichaillat.org/12.pdf)
-+ [Paper 9](https://pascalmichaillat.org/13.pdf)
+## Week 6:
 
-## Conclusion
+## Week 7: 
 
-This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
+## Week 8: 
 
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+##### Readings
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ [Ludwig Wittgenstein: *Philosophical Investigations* (§1-32)](wittgenstein_1968_philosophical_investigations.pdf)
+
+##### Readings
+
++ Continue reading *Philosophical Investigations*
++ [Stanley Cavell: "The Availibility of Wittgenstein's Later Philosophy" in *Must We Mean What We Say*](Must-We-Mean-What-We-Say.pdf)
+
+## Week 9:
+
+## Week 10
+
+
 
