@@ -42,59 +42,79 @@ The focus of this course will be to explore how explore how reading literature p
 Class will be structured as having both a lecture and a seminar included, the first 15 minutes spent on the former and the rest of the time spent on the latter. Attendance is encouraged, and if attending, having done the reading will be mandatory. Please print the readings or pick up the print copies I will make. No laptops in class, ipads are fine. I will set up an email group for encouraged (but not mandatory) weekly reflections. A final paper will be optional. 
  
 
-## Week 1: Intention and Authorship
+## Week 1, September 28th: Intention and Authorship
 
 ##### Readings 
 
 + [Stanley Cavell: “A Matter of Meaning it” in *Must We Mean What We Say* (213-237)](Must-We-Mean-What-We-Say.pdf)
-+ [Elizabeth Anscombe *Intention*: (§4-6)](Intention.pdf)
++ [Elizabeth Anscombe: *Intention*: (§4-6)](Intention.pdf)
 
 ##### Supplamentary Reading
 
 + 
 + 
 
-## Week 2: Why Literature
+## Week 2, October 5th: Why Literature
 
 ##### Readings
 
-+ [Murdoch: “Vision and Choice in Morality” in *Existentialists and Mystics* 76-98](Existentialists-and-mystics.pdf)
-+ [Cora Diamond, “Anything but Argument” in The Realistic Spirit 291-308](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
++ [Iris Murdoch: “Vision and Choice in Morality” in *Existentialists and Mystics* 76-98](Existentialists-and-mystics.pdf)
++ [Cora Diamond: “Anything but Argument” in The Realistic Spirit 291-308](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
 
-## Week 3: Text and Self
+## Week 3, October 12th: The Groundlessness of Moral Judgements
 
 ##### Readings
 
 + [Cavell: “Asthethic Problems of Modern Philosophy” in Must We Mean What We Say](Must-We-Mean-What-We-Say.pdf)
-+ [Cora Diamond “The Difficulty of Reality” in *Reading Cavell* (98-118)](2006-reading-cavell.pdf)
++ [Diamond: “The Difficulty of Reality” in *Reading Cavell* (98-118)](2006-reading-cavell.pdf)
 
-## Week 4: 
+## Week 4, October 19th: 
 
-##### Basic readings
+##### Readings
 
-+ [Paper 6](https://pascalmichaillat.org/10.pdf) ([online appendix](https://pascalmichaillat.org/10a.pdf))
-+ [Paper 7](https://pascalmichaillat.org/11.pdf) ([online appendix](https://pascalmichaillat.org/11a.pdf))
++ [Cavell: *The Claim of Reason* ()](Claim-of-Reason.pdf)
++ [Simone Weil: *Human Personality*](human-personality.pdf)
 
-## Week 5: 
+#### Supplementary Readings 
 
-## Week 6:
 
-## Week 7: 
+## Week 5, October 26th: The Difficulty of Reality pt 1
 
-## Week 8: 
+##### Readings:
+
+[J.M. Cotzee: The Life and Times of Michael K](<Life and times of Michael K -- J_M_ Coetzee -- 1983 -- The Viking Press -- isbn13 9780965528955 -- a60ec8bd86aaf9174d0abc5d298db58d -- Anna’s Archive.pdf>)
+
+## Week 6, November 2nd: The Difficulty of Reality pt 2
+
+##### Readings:
+
+Finish *The Life and Times of Michael K*
+
+## Week 7, November 9th: 
 
 ##### Readings
 
 + [Ludwig Wittgenstein: *Philosophical Investigations* (§1-32)](wittgenstein_1968_philosophical_investigations.pdf)
+
+## Week 8, November 16th: 
 
 ##### Readings
 
 + Continue reading *Philosophical Investigations*
 + [Stanley Cavell: "The Availibility of Wittgenstein's Later Philosophy" in *Must We Mean What We Say*](Must-We-Mean-What-We-Say.pdf)
 
-## Week 9:
+## Week 9, Novemebr : 
 
-## Week 10
+##### Readings 
+
+[Henrik Ibsen: "A Doll's House"](<A Doll's House- A Play -- Henrik Ibsen -- 2020 -- https---onemorelibrary_com -- 63faf38a7dfaba0d9cb1a9d2a987aef1 -- Anna’s Archive.pdf>)
+
+
+## Week 10 
+
+##### Readings
+
+Finish Ibsin A Dolls House
 
 
 
