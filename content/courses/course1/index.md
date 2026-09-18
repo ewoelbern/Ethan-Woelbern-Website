@@ -49,17 +49,17 @@ Class will be structured as having both a lecture and a seminar included, the fi
 + [Stanley Cavell: “A Matter of Meaning it” in *Must We Mean What We Say* (213-237)](Must-We-Mean-What-We-Say.pdf)
 + [Elizabeth Anscombe: *Intention*: (§4-6)](Intention.pdf)
 
-##### Supplamentary Reading
-
-+ 
-+ 
-
 ## Week 2, October 5th: Why Literature
 
 ##### Readings
 
 + [Iris Murdoch: “Vision and Choice in Morality” in *Existentialists and Mystics* 76-98](Existentialists-and-mystics.pdf)
 + [Cora Diamond: “Anything but Argument” in The Realistic Spirit 291-308](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
+
+##### Supplementary Reading
+
++ [Diamond: What is Moral Philosophy](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
++ [Cora Diamond: A Picture of the Soul, Iris Murdoch's Moral Psychology](https://www.abc.net.au/religion/cora-diamond-picture-of-the-soul-the-moral-psychology-of-iris-m/11316086)
 
 ## Week 3, October 12th: The Groundlessness of Moral Judgements
 
@@ -68,53 +68,57 @@ Class will be structured as having both a lecture and a seminar included, the fi
 + [Cavell: “Asthethic Problems of Modern Philosophy” in Must We Mean What We Say](Must-We-Mean-What-We-Say.pdf)
 + [Diamond: “The Difficulty of Reality” in *Reading Cavell* (98-118)](2006-reading-cavell.pdf)
 
-## Week 4, October 19th: 
+##### Supplementary Reading
+
++ [Cavell: Title Essay in *Must We Mean What We Say*](Must-We-Mean-What-We-Say.pdf)
+
+## Week 4, October 19th: The Difficulty of Reality pt 1
 
 ##### Readings
 
-+ [Cavell: *The Claim of Reason* ()](Claim-of-Reason.pdf)
++ [J.M. Cotzee: The Life and Times of Michael K](<Life and times of Michael K -- J_M_ Coetzee -- 1983 -- The Viking Press -- isbn13 9780965528955 -- a60ec8bd86aaf9174d0abc5d298db58d -- Anna’s Archive.pdf>)
+
+## Week 5, October 26th: The Difficulty of Reality pt 2
+
+##### Readings:
+
++ Finish *The Life and Times of Michael K*
 + [Simone Weil: *Human Personality*](human-personality.pdf)
 
-#### Supplementary Readings 
-
-
-## Week 5, October 26th: The Difficulty of Reality pt 1
-
-##### Readings:
-
-[J.M. Cotzee: The Life and Times of Michael K](<Life and times of Michael K -- J_M_ Coetzee -- 1983 -- The Viking Press -- isbn13 9780965528955 -- a60ec8bd86aaf9174d0abc5d298db58d -- Anna’s Archive.pdf>)
-
-## Week 6, November 2nd: The Difficulty of Reality pt 2
-
-##### Readings:
-
-Finish *The Life and Times of Michael K*
-
-## Week 7, November 9th: 
+## Week 6, November 2nd: Reading Ourselves
 
 ##### Readings
 
 + [Ludwig Wittgenstein: *Philosophical Investigations* (§1-32)](wittgenstein_1968_philosophical_investigations.pdf)
 
-## Week 8, November 16th: 
+## Week 7, November 9th: Reading Ourselves
 
 ##### Readings
 
 + Continue reading *Philosophical Investigations*
 + [Stanley Cavell: "The Availibility of Wittgenstein's Later Philosophy" in *Must We Mean What We Say*](Must-We-Mean-What-We-Say.pdf)
 
-## Week 9, Novemebr : 
-
-##### Readings 
-
-[Henrik Ibsen: "A Doll's House"](<A Doll's House- A Play -- Henrik Ibsen -- 2020 -- https---onemorelibrary_com -- 63faf38a7dfaba0d9cb1a9d2a987aef1 -- Anna’s Archive.pdf>)
-
-
-## Week 10 
+## Week 8, November 16th: Acknowledging Others
 
 ##### Readings
 
-Finish Ibsin A Dolls House
++ Blade Runner (Can be found on Kanopy through the Library)
++ [Cavell: *The Claim of Reason* ()](Claim-of-Reason.pdf)
 
+##### Supplementary Readings
+
++ Norris Essay on Blade Runner 
+
+## Week 9, November 23rd: Ordinary Ethics
+
+##### Readings 
+
++ [Henrik Ibsen: "A Doll's House"](<A Doll's House- A Play -- Henrik Ibsen -- 2020 -- https---onemorelibrary_com -- 63faf38a7dfaba0d9cb1a9d2a987aef1 -- Anna’s Archive.pdf>)
+
+## Week 10, November 30th: Ordinary Ethics
+
+##### Readings
+
++ Finish Ibsin A Dolls House
 
 
