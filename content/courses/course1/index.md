@@ -44,13 +44,6 @@ Class will be structured as having both a lecture and a seminar included, the fi
 
 ## Week 1, September 28th: Intention and Authorship
 
-##### Readings 
-
-+ [Stanley Cavell: “A Matter of Meaning it” in *Must We Mean What We Say* (213-237)](Must-We-Mean-What-We-Say.pdf)
-+ [Elizabeth Anscombe: *Intention*: (§4-6)](Intention.pdf)
-
-## Week 2, October 5th: Why Literature
-
 ##### Readings
 
 + [Iris Murdoch: “Vision and Choice in Morality” in *Existentialists and Mystics* 76-98](Existentialists-and-mystics.pdf)
@@ -61,16 +54,23 @@ Class will be structured as having both a lecture and a seminar included, the fi
 + [Diamond: What is Moral Philosophy](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
 + [Cora Diamond: A Picture of the Soul, Iris Murdoch's Moral Psychology](https://www.abc.net.au/religion/cora-diamond-picture-of-the-soul-the-moral-psychology-of-iris-m/11316086)
 
+## Week 2, October 5th: Why Literature
+
+##### Readings 
+
++ [Stanley Cavell: “A Matter of Meaning it” in *Must We Mean What We Say* (213-237)](Must-We-Mean-What-We-Say.pdf)
++ [Elizabeth Anscombe: *Intention*: (§4-6)](Intention.pdf)
+
 ## Week 3, October 12th: The Groundlessness of Moral Judgements
 
 ##### Readings
 
-+ [Cavell: “Asthethic Problems of Modern Philosophy” in Must We Mean What We Say](Must-We-Mean-What-We-Say.pdf)
++ [Cavell: “Asthethic Problems of Modern Philosophy” in *Must We Mean What We Say* (68-90)](Must-We-Mean-What-We-Say.pdf)
 + [Diamond: “The Difficulty of Reality” in *Reading Cavell* (98-118)](2006-reading-cavell.pdf)
 
 ##### Supplementary Reading
 
-+ [Cavell: Title Essay in *Must We Mean What We Say*](Must-We-Mean-What-We-Say.pdf)
++ [Cavell: Title Essay in *Must We Mean What We Say* (1-40)](Must-We-Mean-What-We-Say.pdf)
 
 ## Week 4, October 19th: The Difficulty of Reality pt 1
 
@@ -103,7 +103,7 @@ Class will be structured as having both a lecture and a seminar included, the fi
 ##### Readings
 
 + Blade Runner (Can be found on Kanopy through the Library)
-+ [Cavell: *The Claim of Reason* ()](Claim-of-Reason.pdf)
++ [Cavell: *The Claim of Reason* (476-496)](Claim-of-Reason.pdf)
 
 ##### Supplementary Readings
 
