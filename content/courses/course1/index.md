@@ -18,7 +18,7 @@ aliases:
 tags: ["Literature","Moral Philosophy","Ordinary Language Philosophy","Literary Analysis"]
 author: "Ethan Woelbern"
 description: "This course presents a conjunctive reading between realist literature and moral philosophy." 
-summary: "Within this course we will explore what exactly reading literature as having philosophical merit and reading philosophy outside of the realm of argument does for the practice of each field—how it reopens those whom the field traditionally accepts for new interpretation. Another way of reading this the aim is to see how explore how reading literature philosophically and reading philosophy literarily can do things for our lives. Putting this in the form of a thesis question for the course: how does being in a dialogue with a text reveal what we as readers find important, truthful, and meaningful (as well as the inverse)?" 
+summary: "The focus of this course will be to explore how reading literature philosophically and reading philosophy literarily shapes our visions of a moral life. Putting this in the form of a guiding question: how does being in a dialogue with a text reveal what we, as readers, find important, truthful, and meaningful (as well as the inverse)? Navigating this question will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. I would like to see a) how reading philosophy outside of the realm of argument shifts the focus of the practice altogether and b) look at the ways that reading literary and philosophical texts can help us understanding ourselves and our world. " 
 cover:
     image: "course1.png"
     alt: "Literature as Moral Philosophy"
@@ -37,7 +37,7 @@ disableAnchoredHeadings: false
 
 ## Course Introduction
 
-The focus of this course will be to explore how reading literature philosophically and reading philosophy literarily shapes our visions of a moral life. Putting this in the form of a thesis question: how does being in a dialogue with a text reveal what we, as readers, find important, truthful, and meaningful (as well as the inverse)? Navigating this question will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. 
+The focus of this course will be to explore how reading literature philosophically and reading philosophy literarily shapes our visions of a moral life. Putting this in the form of a guiding question: how does being in a dialogue with a text reveal what we, as readers, find important, truthful, and meaningful (as well as the inverse)? Navigating this question will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. 
 
 The Philosopher Stanley Cavell states in the beginning of his work *The Claim of Reason* that he seeks to read philosophy as a series of texts. Cavell ends the book by asking if one can think about the characters in "Othello" as philosophers. Using these quote as guiding principles, I would like to see a) how reading philosophy outside of the realm of argument shifts the focus of the practice altogether and b) look at the ways that reading literary and philosophical texts can help us understanding ourselves and our world. 
 
