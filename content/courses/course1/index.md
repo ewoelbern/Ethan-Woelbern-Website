@@ -42,7 +42,7 @@ The focus of this course will be to explore how explore how reading literature p
 Class will be structured as having both a lecture and a seminar included, the first 15 minutes spent on the former and the rest of the time spent on the latter. Attendance is encouraged, and if attending, having done the reading will be mandatory. Please print the readings or pick up the print copies I will make. No laptops in class, ipads are fine. I will set up an email group for encouraged (but not mandatory) weekly reflections. A final paper will be optional. 
  
 
-## Week 1, September 28th: Intention and Authorship
+## Week 1, September 28th: Why Literature
 
 ##### Readings
 
@@ -51,10 +51,10 @@ Class will be structured as having both a lecture and a seminar included, the fi
 
 ##### Supplementary Reading
 
-+ [Diamond: What is Moral Philosophy](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
++ [Diamond: "Having a Rough Story about What Moral Philosophy Is" in *The Realisitic Spirit* (367-382)](diamond_1996_the_realistic_spirit_wittgenstein,_philosophy,_and_the_mind.pdf)
 + [Cora Diamond: A Picture of the Soul, Iris Murdoch's Moral Psychology](https://www.abc.net.au/religion/cora-diamond-picture-of-the-soul-the-moral-psychology-of-iris-m/11316086)
 
-## Week 2, October 5th: Why Literature
+## Week 2, October 5th: Intention and Authorship
 
 ##### Readings 
 
@@ -76,7 +76,7 @@ Class will be structured as having both a lecture and a seminar included, the fi
 
 ##### Readings
 
-+ [J.M. Cotzee: The Life and Times of Michael K](<Life and times of Michael K -- J_M_ Coetzee -- 1983 -- The Viking Press -- isbn13 9780965528955 -- a60ec8bd86aaf9174d0abc5d298db58d -- Anna’s Archive.pdf>)
++ [J.M. Cotzee: *The Life and Times of Michael K*](<Life and times of Michael K -- J_M_ Coetzee -- 1983 -- The Viking Press -- isbn13 9780965528955 -- a60ec8bd86aaf9174d0abc5d298db58d -- Anna’s Archive.pdf>)
 
 ## Week 5, October 26th: The Difficulty of Reality pt 2
 
@@ -96,18 +96,19 @@ Class will be structured as having both a lecture and a seminar included, the fi
 ##### Readings
 
 + Continue reading *Philosophical Investigations*
-+ [Stanley Cavell: "The Availibility of Wittgenstein's Later Philosophy" in *Must We Mean What We Say*](Must-We-Mean-What-We-Say.pdf)
++ [Stanley Cavell: "The Availibility of Wittgenstein's Later Philosophy" in *Must We Mean What We Say* (44-72)](Must-We-Mean-What-We-Say.pdf)
 
 ## Week 8, November 16th: Acknowledging Others
 
 ##### Readings
 
-+ Blade Runner (Can be found on Kanopy through the Library)
-+ [Cavell: *The Claim of Reason* (476-496)](Claim-of-Reason.pdf)
++ Blade Runner (Can be found on Kanopy through the UCSB Library or HBO MAX)
++ [Cavell: *The Claim of Reason* ( ,476-496)](Claim-of-Reason.pdf)
 
 ##### Supplementary Readings
 
-+ Norris Essay on Blade Runner 
++ [Andrew Norris: Self and Other in Blade Runner](norris-2017-how-can-it-not-know-what-it-is-self-and-other-in-ridley-scott-s-blade-runner.pdf)
+
 
 ## Week 9, November 23rd: Ordinary Ethics
 
@@ -119,6 +120,6 @@ Class will be structured as having both a lecture and a seminar included, the fi
 
 ##### Readings
 
-+ Finish Ibsin A Dolls House
++ Finish Ibsen's "A Dolls House"
 
 
