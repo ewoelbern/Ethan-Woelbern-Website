@@ -34,7 +34,7 @@ disableAnchoredHeadings: false
 # Literature as Moral Philosophy
 #### Fall 2026 
 ##### Led by Ethan Woelbern and advised by Jim Donelan
-
+![alt text](course1.jpeg)
 ## Course Introduction
 
 The focus of this course will be to explore how reading literature philosophically and reading philosophy literarily shapes our visions of a moral life. Putting this in the form of a guiding question: how does being in a dialogue with a text reveal what we, as readers, find important, truthful, and meaningful (as well as the inverse)? Navigating this question will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. 
