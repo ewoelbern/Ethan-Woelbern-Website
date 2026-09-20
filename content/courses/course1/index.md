@@ -24,7 +24,7 @@ cover:
     alt: "Literature as Moral Philosophy"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://ucsb.instructure.com/courses/35586"
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
@@ -37,9 +37,11 @@ disableAnchoredHeadings: false
 
 ## Course Introduction
 
-The focus of this course will be to explore how explore how reading literature philosophically and reading philosophy can do things for us. Putting this in the form of a thesis question for the course: how does being in a dialogue with a text reveal what we as readers find important, truthful, and meaningful (as well as the inverse)? Navigating this will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. These two principles are, I think, not necessarily the most explicitly stated in either field, though perhaps they should be. The Philosopher Stanley Cavell states in the beginning of his work The Claim of Reason that he seeks to read philosophy as a series of texts. Using this quote as a guiding principle, I would like to see what exactly reading philosophy outside of the realm of argument shifts the practice altogether as well as look at the ways that reading texts and gauging how we react to them can help us to come to better understandings of ourselves and our world. Cavell ends The Claim of Reason by asking if one can think about the characters of Othello as philosophers. This sort of question will guide our discussions in this course.
+The focus of this course will be to explore how reading literature philosophically and reading philosophy literarily shapes our visions of a moral life. Putting this in the form of a thesis question: how does being in a dialogue with a text reveal what we, as readers, find important, truthful, and meaningful (as well as the inverse)? Navigating this question will also require recognizing how we may fail to acknowledge certain aspects of a text while reading it. 
 
-Class will be structured as having both a lecture and a seminar included, the first 15 minutes spent on the former and the rest of the time spent on the latter. Attendance is encouraged, and if attending, having done the reading will be mandatory. Please print the readings or pick up the print copies I will make. No laptops in class, ipads are fine. I will set up an email group for encouraged (but not mandatory) weekly reflections. A final paper will be optional. 
+The Philosopher Stanley Cavell states in the beginning of his work *The Claim of Reason* that he seeks to read philosophy as a series of texts. Cavell ends the book by asking if one can think about the characters in "Othello" as philosophers. Using these quote as guiding principles, I would like to see a) how reading philosophy outside of the realm of argument shifts the focus of the practice altogether and b) look at the ways that reading literary and philosophical texts can help us understanding ourselves and our world. 
+
+Class will be structured with both a lecture and a seminar, the first 15 minutes spent on the former and the last hour spent on the latter. Attendance is encouraged, and if attending, having done the reading will be mandatory. Please print the readings or pick up the print copies I will make. No laptops in class, ipads are fine. I will set up an email group for encouraged (but not mandatory) weekly reflections. A final paper will be optional. 
  
 
 ## Week 1, September 28th: Why Literature
